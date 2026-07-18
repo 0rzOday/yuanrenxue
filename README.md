@@ -7,4 +7,6 @@
 ### 题目网址：`https://match.yuanrenxue.cn/match/5`
 ### 4：jsvmp - 洞察先机
 ### 题目地址：`https://match.yuanrenxue.cn/match/18`
+### 5：js 混淆 - 回溯
+### 题目地址：`https://match.yuanrenxue.cn/match/6`
 #### ps:像一条蛆一样爬动

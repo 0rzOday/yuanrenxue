@@ -9,4 +9,6 @@
 ### 题目地址：`https://match.yuanrenxue.cn/match/18`
 ### 5：js 混淆 - 回溯
 ### 题目地址：`https://match.yuanrenxue.cn/match/6`
+### 6：js 混淆 - 动态cookie 2
+### 题目地址：`https://match.yuanrenxue.cn/match/9`
 #### ps:像一条蛆一样爬动
